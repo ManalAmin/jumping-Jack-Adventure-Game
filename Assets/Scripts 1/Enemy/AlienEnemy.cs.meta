@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b06c83ba6d399d469a496a3caa9e67b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boxCollider: {instanceID: 0}
+  - attackSound: {fileID: 8300000, guid: fffaeeb4c7d9f124cbb46f26d1bfe70b, type: 3}
+  - deathSound: {fileID: 8300000, guid: 05fc8df1de529074a89a53bcf2f8ba62, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
