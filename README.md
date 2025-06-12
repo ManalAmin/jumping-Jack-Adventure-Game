@@ -5,6 +5,8 @@
 - Haniya Hussain 
 - Manal Amin
 
+## About The Game
+
 **Jumping Jack’s Adventure** is a 2D space-themed action-platformer built with Unity. In this game, players guide Jack through treacherous environments to reclaim a mystical artifact from the villain, Hunter.
 
 ---
